@@ -1,0 +1,9 @@
+scipy
+argparse
+numpy
+pandas
+matplotlib
+nbgitpuller
+jupytext
+
+
